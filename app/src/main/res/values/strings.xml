@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UserGenerator</string>
+
+    <string name="prompt_gender">Choose a gender</string>
+    <string-array name="gender_array">
+        <item>Gender</item>
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string name="prompt_nat">Choose a nationality</string>
+    <string name="locationtxt">Location</string>
+    <string name="user_nametxt">Name</string>
+    <string name="user_ntxt">Username</string>
+    <string name="pass_txt">Password</string>
+    <string name="Load_msg">Loading Content</string>
+    <string-array name="nat_array">
+        <item>Nat</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>CA</item>
+        <item>CH</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>IE</item>
+        <item>NL</item>
+        <item>NZ</item>
+        <item>TR</item>
+        <item>UR</item>
+    </string-array>
+
+
+    <string-array name="lego_array">
+        <item>Human</item>
+        <item>Lego</item>
+    </string-array>
+</resources>
